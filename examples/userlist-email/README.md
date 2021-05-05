@@ -58,11 +58,11 @@ You can deploy this example on Gatsby Cloud by copying the example into a new re
 <!--- Working on improving deploy now to use subdirectories
 4.  **Deploy**
 You can directly deploy this starter by using the Deploy button below and select the directory for the Userlist example. Otherwise, fork this repo and create your own repo and [connect that to Gatsby Cloud](https://www.gatsbyjs.com/docs/how-to/previews-deploys-hosting/deploying-to-gatsby-cloud/#set-up-an-existing-gatsby-site).
--->
+
 [<img src="https://www.gatsbyjs.com/deploynow.svg">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-functions-beta/)
 
 
 
 [<img src="https://www.gatsbyjs.com/deploynow.svg">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-functions-beta/tree/main/examples/userlist-email-collection)
 
-
+-->
